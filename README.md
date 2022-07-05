@@ -33,7 +33,6 @@ HTML/CSS, Javascript, React, Sass, React Router Dom
 <br />
 
 
-
 ### 구현 페이지
 
 #### 회원가입 / 로그인
@@ -44,19 +43,27 @@ HTML/CSS, Javascript, React, Sass, React Router Dom
 
 #### 메인페이지
 
-- 영상
-- 구현 기능
+![main02](https://user-images.githubusercontent.com/99022588/177146406-5831fa79-e5b2-4636-aa43-5d72b75e275f.gif)
+<br />
+동적인 기능없이 메인영상과 이미지로 디자인완성했습니다.<br />
+중간에
 
 #### Nav, Footer Bar
 
-- 영상
-- 구현 기능
+ <img width="1490" alt="footer" src="https://user-images.githubusercontent.com/98519119/177065931-503f623b-8897-48f7-97a0-fee55e12436f.png">![nav3](https://user-images.githubusercontent.com/98519119/177066388-836b8a16-e5da-4577-a9ae-d20eb2d8257d.gif)
+
+
+Footer : 동적인 기능 없이 화면만 구성 <br/>
+Nav : 마우스를 올렸을 때 하위 카테고리가 나오며, 마우스를 뗐을 때 다시 사라지는 기능을 구현했습니다. 마찬가지로 마이페이지 아이콘에 마우스를 올렸을 때 로그인, 회원가입을 할 수 있는 박스가 나타났다가 사라지는 기능을 구현했습니다.
 
 
 #### 상품 리스트 페이지
 
-- 영상
-- 구현 기능
+![list02](https://user-images.githubusercontent.com/99022588/177147470-989af989-2a4d-4dd5-a86a-1d2caa3858fd.gif)
+<br/>
+
+*백엔드에서 데이터 받아와서 서브 비주얼이미지부터 ~ 타이틀 리스트내용까지 나타나게 구현했습니다 <br />
+*sort함수를 사용해서 분류탭에서 낮은가격순/높은가격순 분류 변하게 작업했습니다.
 
 
 #### 상품 상세 페이지
@@ -84,9 +91,13 @@ HTML/CSS, Javascript, React, Sass, React Router Dom
 
 
 #### 장바구니 페이지
+![cart2](https://user-images.githubusercontent.com/98519119/177066421-86ceaaaa-1812-4f6d-b681-1be660a41ce0.gif)
 
-- 영상
-- 구현 기능
+
+* 전체 체크박스 선택과 개별 체크박스를 선택할 수 있는 기능을 구현<br>
+* 수량 버튼을 클릭 시 +, - 상품 수량 증가, 감소 나타내는 기능 구현<br>
+* 체크박스 선택 시 총 주문금액에 수량과 금액 더하도록 기능 구현<br>
+* 전체삭제 및 개별삭제 기능 구현
 
 
 <br>
