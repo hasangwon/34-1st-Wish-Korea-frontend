@@ -65,7 +65,7 @@ HTML/CSS, Javascript, React, Sass, React Router Dom
 
 #### Nav, Footer Bar
 
- <img width="1490" alt="footer" src="https://user-images.githubusercontent.com/98519119/177065931-503f623b-8897-48f7-97a0-fee55e12436f.png">![nav3](https://user-images.githubusercontent.com/98519119/177066388-836b8a16-e5da-4577-a9ae-d20eb2d8257d.gif)
+ <img width="500" alt="footer" src="https://user-images.githubusercontent.com/98519119/177065931-503f623b-8897-48f7-97a0-fee55e12436f.png">![nav3](https://user-images.githubusercontent.com/98519119/177066388-836b8a16-e5da-4577-a9ae-d20eb2d8257d.gif)
 
 
 Footer : 동적인 기능 없이 화면만 구성 <br/>
