@@ -21,7 +21,7 @@
 ### 협업 툴
 - GitHub : 각 페이지마다 branch를 생성하여 관리하였습니다. 
 - Trello : 기능 별로 티켓을 만들어 진행 상황을 공유하고, Trello를 토대로 매일 회의 후 회의록을 남겼습니다. 
-<img width="1512" alt="스크린샷 2022-07-03 오후 8 38 39" src="https://user-images.githubusercontent.com/75872687/177037919-63cb8cbe-d57a-42f3-bd6d-a6c3b8b919e5.png">
+<img width="500" alt="스크린샷 2022-07-03 오후 8 38 39" src="https://user-images.githubusercontent.com/75872687/177037919-63cb8cbe-d57a-42f3-bd6d-a6c3b8b919e5.png">
 <br>
 
 
